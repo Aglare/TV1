@@ -54,8 +54,12 @@ CGTN俄语,CGTN俄罗斯语
 
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
 
-翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台
-明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
+翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,翡翠台(字幕),翡翠台备,翡翠台超清[Jade HD+],翡翠台超清,Jade HD+,翡翠台(多音轨字幕),TVB翡翠,无线翡翠,翡翠,tvb翡翠,[BD]翡翠台,[BD]翡翠,无线翡翠Pdtv,翡翠台2,b翡翠,高清翡翠台,黄金翡翠,TVB翡翠台 4K,TVB翡翠台 1080P,無綫翡翠台,翡翠台北美版,无线翡翠频晴,无线翡翠高码,黄金翡翠频晴,无线翡翠频伍,无线翡翠频陆,无线翡翠台,TVB翡翠台H.265,Jade,TVB Jade,TVB翡翠台4K,TVB翡翠台1080P,TVB翡翠台（备用）,TVB 翡翠台,TVB翡翠台 H.265,黄金翡翠频陆,TVB jade,TVB翡翠(马来),TVB翡翠台(备用)
+TVB Plus,TVBPlus,TVB plus 超清,TVB+,TVB PLUS(多音轨字幕),tvb plus超清,tvb+,tvbplus,tvb plus,TVBS Plus,Plus综合Pdtv,Plus综合,Plus综合频晴,无线Plus频伍,TVB82,82台,无线82台,TVB Plus 82,TVB综合频道,TVB Plus82,TVBplus,TVB Plus H.265,备用源1:TVB Plus,TVB综合,无线Plus台,TVB PLUS,TVBPLUS,Plus综合高码,TVB plus
+华丽翡翠台,翡翠台华丽,翡翠台(馬來),翡翠台(马来),华丽翡翠台(多音轨字幕),华丽翡翠台(新加坡),无线华丽,TVB华丽翡翠,TVB华丽翡翠新加坡,tvb華麗,Astro华丽台 *b,无线华丽Pdtv,无线华丽台,華麗翡翠台
+TVB星河,无线星河,TVB星河国语,TVB星河(多音轨字幕),无线星河Pdtv,tvb星河,tvb星河频道,星河,TVB无线星河,无线星河频晴,星河频道,备用源1:TVB星河,备用源2:TVB星河,TVB星河频道,无线星河国,无线星河粤,TVB Xing He,TVB XingHe
+翡翠台4K,无线翡翠4K,翡翠台4k,翡翠4K,无线翡翠4Ktv
+明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl,明珠台(字幕),明珠,明珠台超清[Pearl HD+],明珠台超清,Pearl HD+,TVB明珠,明珠台(多音轨字幕),无线明珠,[BD]明珠台高清,[BD]明珠,无线明珠Pdtv,pearl,tvbpearl,re:^明珠台\s*\(.*?\).*$,無綫明珠台,TVBPearl,无线明珠频晴,无线明珠高码,无线明珠频陆,无线明珠台,Pearl,TVB 明珠台
 北京卫视,北京卫视4K,北京卫视4K超高清
 凤凰中文,凤凰卫视中文台
 凤凰香港,凤凰卫视香港台
@@ -64,8 +68,9 @@ CGTN俄语,CGTN俄罗斯语
 FZTV1,FZTV-1,福州综合,福州1-新闻
 FZTV3,FZTV-3,福州生活,福州3-生活
 
-无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
+美亚电影,[BD]美亞電影,美亚高清电影台香港,美亚C+,美亚电影Pdtv,美亚电影频晴
 
+无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台,[BD]無線新聞台高清,[BD]無線新聞,[BD]无线新闻,无线新闻Pdtv,无线新闻台2,b无线,tvb无线新闻台,re:^无线新闻\s*\(.*?\).*$,TVB News,TVB無綫新聞,TVB無綫新聞台,无线新闻频晴,无线新闻高码,无线新闻频伍,无线新闻频陆,TVB新闻台,TVB-news,TVB无线新闻H.265,TVB無線新聞,TVB News Channel,TVB NEWS,TVB 无线新闻台,TVB无线新闻（备用）,TVB无线新闻 H.265,TVB无线新闻(备用)
 港台电视 31,港台電視 31,RTHK31,RTHK 31,RTHK-31
 港台电视 32,港台電視 32,RTHK32,RTHK 32,RTHK-32
 中央電視台綜合頻道,中央電視台綜合頻道（CCTV-1綜合),CCTV-1綜合,RTHK33,RTHK 33,RTHK-33
