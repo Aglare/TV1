@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Aglare/TV1/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🕘️更新时间",2026-10-31 05:51:03
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🕘️更新时间",2026-11-01 04:50:48
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港澳频道",翡翠台
 http://r.jdshipin.com/qClQf
@@ -121,6 +121,8 @@ https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574
 https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="港澳频道",TVBS亚洲
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="港澳频道",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="港澳频道",香港卫视

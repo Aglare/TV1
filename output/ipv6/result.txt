@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-31 05:51:03,http://r.jdshipin.com/qClQf
+2026-11-01 04:50:48,http://r.jdshipin.com/qClQf
 
 港澳频道,#genre#
 翡翠台,http://r.jdshipin.com/qClQf
@@ -62,6 +62,7 @@ TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
